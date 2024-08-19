@@ -1,5 +1,10 @@
 /*CSS*/ 
 
+/* Web page background color */
+body {
+    background-color: black;
+}
+
 /*Style for the h1 heading>*/
 h1 {
     font-family: Verdana;
