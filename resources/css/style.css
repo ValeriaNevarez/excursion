@@ -50,3 +50,7 @@ footer {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
 }
+
+div.link {
+    margin-bottom: 25px;
+}
