@@ -35,3 +35,18 @@ a {
     font-weight:normal;
     color: aquamarine;
 }
+
+/* Style for the p elements */
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+/*Style for footer */
+footer {
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
